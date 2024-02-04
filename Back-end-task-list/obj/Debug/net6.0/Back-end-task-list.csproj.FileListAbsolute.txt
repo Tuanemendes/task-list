@@ -25,3 +25,13 @@ d:\task-list\Back-end-task-list\obj\Debug\net6.0\refint\Back-end-task-list.dll
 d:\task-list\Back-end-task-list\obj\Debug\net6.0\Back-end-task-list.pdb
 d:\task-list\Back-end-task-list\obj\Debug\net6.0\Back-end-task-list.genruntimeconfig.cache
 d:\task-list\Back-end-task-list\obj\Debug\net6.0\ref\Back-end-task-list.dll
+D:\task-list\Back-end-task-list\bin\Debug\net6.0\Humanizer.dll
+D:\task-list\Back-end-task-list\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\task-list\Back-end-task-list\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\task-list\Back-end-task-list\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\task-list\Back-end-task-list\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\task-list\Back-end-task-list\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\task-list\Back-end-task-list\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\task-list\Back-end-task-list\bin\Debug\net6.0\Npgsql.dll
+D:\task-list\Back-end-task-list\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\task-list\Back-end-task-list\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
