@@ -1,5 +1,6 @@
 
 using Microsoft.EntityFrameworkCore;
+using Back_end_task_list.Models; 
 
 namespace Back_end_task_list.Data
 {
@@ -9,10 +10,16 @@ namespace Back_end_task_list.Data
         {
         }
 
-        public DbSet<Task> Tasks { get; set; }
+        public DbSet<TaskEntity> Tasks { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Task>().HasNoKey();
+            var task = modelBuilder.Entity<TaskEntity>();
+            task.ToTable("tb_task");
+            task.HasKey(x => x.Id);
+            task.Property(x => x.Id).HasColumnName("id_task").ValueGeneratedOnAdd();
+            task.Property(x => x.Description).HasColumnName("description");
+            task.Property(x => x.TaskStatus).HasColumnName("status");
         }
 
     }
