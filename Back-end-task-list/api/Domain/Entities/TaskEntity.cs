@@ -1,7 +1,7 @@
 
-using Back_end_task_list.Domain.Enums;
+using Api.Enums;
 
-namespace Back_end_task_list.Models
+namespace Api.Domain.Entities
 {
     public class TaskEntity
     {
@@ -9,6 +9,6 @@ namespace Back_end_task_list.Models
 
         public string Description { get; set; }
 
-        public  Status TaskStatus {get; set; }
+        public Status TaskStatus { get; set; }
     }
 }

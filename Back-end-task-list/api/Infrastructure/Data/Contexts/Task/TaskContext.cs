@@ -1,8 +1,8 @@
-
+using Api.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
-using Back_end_task_list.Models; 
 
-namespace Back_end_task_list.Data
+
+namespace Api.Infrastructure.Contexts
 {
     public class TaskContext : DbContext
     {
