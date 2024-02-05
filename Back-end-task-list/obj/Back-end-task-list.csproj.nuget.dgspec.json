@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\task-list\\Back-end-task-list\\Back-end-task-list.csproj": {}
+    "d:\\task-list\\Back-end-task-list\\Back-end-task-list.csproj": {}
   },
   "projects": {
-    "D:\\task-list\\Back-end-task-list\\Back-end-task-list.csproj": {
+    "d:\\task-list\\Back-end-task-list\\Back-end-task-list.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\task-list\\Back-end-task-list\\Back-end-task-list.csproj",
+        "projectUniqueName": "d:\\task-list\\Back-end-task-list\\Back-end-task-list.csproj",
         "projectName": "Back-end-task-list",
-        "projectPath": "D:\\task-list\\Back-end-task-list\\Back-end-task-list.csproj",
+        "projectPath": "d:\\task-list\\Back-end-task-list\\Back-end-task-list.csproj",
         "packagesPath": "C:\\Users\\tuane\\.nuget\\packages\\",
-        "outputPath": "D:\\task-list\\Back-end-task-list\\obj\\",
+        "outputPath": "d:\\task-list\\Back-end-task-list\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tuane\\AppData\\Roaming\\NuGet\\NuGet.Config"
